@@ -1,0 +1,25 @@
+{
+  "title": "Sample PDF",
+  "outline": [
+    {
+      "text": "Sample PDF",
+      "level": "H1",
+      "page": 1
+    },
+    {
+      "text": "Created for testing PDFObject",
+      "level": "H2",
+      "page": 1
+    },
+    {
+      "text": "you’re optimistic. Is it the same as saying “three long minutes”, knowing",
+      "level": "H2",
+      "page": 1
+    },
+    {
+      "text": "longer than the other?",
+      "level": "H2",
+      "page": 1
+    }
+  ]
+}
